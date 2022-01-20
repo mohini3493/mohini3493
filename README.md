@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohini</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Mohini</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 - 🌱 I’m currently learning **Angular JS and React JS**
