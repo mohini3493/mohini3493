@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Freelancing & Teaching**
 
-- ⚡ Fun fact **I think I'm Smiley Lady**
+- ⚡ Fun fact **I think I'm Smiley Lady** :smile:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
