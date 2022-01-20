@@ -7,21 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/imohinibajadeja" target="blank"><img src="https://img.shields.io/twitter/follow/imohinibajadeja?logo=twitter&style=for-the-badge" alt="imohinibajadeja" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development Projects in WordPress and have professional experience working with HTML and CSS.**
+🔭 I’m currently working on **Web Development Projects in WordPress and have professional experience working with HTML and CSS.**
 
-- 🌱 I’m currently learning **TypeScript, Angular JS & React JS**
+🌱 I’m currently learning **TypeScript, Angular JS & React JS**
 
-- 🤝 I’m looking for help with **remotely**
+🤝 I’m looking for help with **remotely**
 
-- 👨‍💻 All of my projects are available at [https://mohini3493.github.io/work/](https://mohini3493.github.io/work/)
+👨‍💻 All of my projects are available at [https://mohini3493.github.io/work/](https://mohini3493.github.io/work/)
 
-- 💬 Ask me about **Freelancing & Teaching**
+💬 Ask me about **Freelancing & Teaching**
 
-- ⚡ Fun fact **I think I'm Smiley Lady** :smile:
+⚡ Fun fact **I think I'm Smiley Lady** :smile:
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohini3493&show_icons=true&locale=en&layout=compact" alt="mohini3493" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohini3493&show_icons=true&locale=en" alt="mohini3493" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohini3493&" alt="mohini3493" /></p>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mohini3493&show_icons=true&locale=en" alt="mohini3493" /></p>
