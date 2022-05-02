@@ -7,17 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imohinibajadeja" target="blank"><img src="https://img.shields.io/twitter/follow/imohinibajadeja?logo=twitter&style=for-the-badge" alt="imohinibajadeja" /></a> </p>
 
-🔭 I’m currently working on **Web Development Projects in WordPress and have professional experience working with HTML and CSS.**
-
-🌱 I’m currently learning **TypeScript, Angular JS & React JS**
-
-🤝 I’m looking for help with **remotely**
-
-👨‍💻 All of my projects are available at [https://mohini3493.github.io/work/](https://mohini3493.github.io/work/)
-
-💬 Ask me about **Freelancing & Teaching**
-
-⚡ Fun fact **I think I'm Smiley Lady** :smile:
+🔭 5+ years of industry experience building websites and web applications. 💪🏻 I specialize in WordPress, HTML, CSS, Bootstrap & JavaScript and have professional experience working with ReactJS, React Native & Shopify. 👨🏻‍💻 Also having knowledge of Wix and Webflow. 🌟 Responsible for developing, deploying, and maintaining multiple websites. 🎯 Skilled in using Bootstrap library to quickly build project UI's and using ReactJS framework to associate HTML elements to models.
 
 
 <h3 align="left">Connect with me:</h3>
