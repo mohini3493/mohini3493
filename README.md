@@ -5,8 +5,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/imohinibajadeja" target="blank"><img src="https://img.shields.io/twitter/follow/imohinibajadeja?logo=twitter&style=for-the-badge" alt="imohinibajadeja" /></a> </p>
-
 🔭 5+ years of industry experience building websites and web applications. 💪🏻 I specialize in WordPress, HTML, CSS, Bootstrap & JavaScript and have professional experience working with ReactJS, React Native & Shopify. 👩🏻‍💻 Also having knowledge of Wix and Webflow. 🌟 Responsible for developing, deploying, and maintaining multiple websites. 🎯 Skilled in using Bootstrap library to quickly build project UI's and using ReactJS framework to associate HTML elements to models.
 
 
