@@ -16,6 +16,7 @@
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohini3493&show_icons=true&locale=en" alt="mohini3493" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohini3493&" alt="mohini3493" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mohini3493)](https://git.io/streak-stats)
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohini3493&show_icons=true&locale=en&layout=compact" alt="mohini3493" /></p>
 
 ## 🏆 GitHub Trophies
