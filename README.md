@@ -65,9 +65,10 @@ Empowered with the skills to navigate the complex world of e-commerce using plat
 
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mohini3493&show_icons=true&locale=en" alt="mohini3493" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohini3493&" alt="mohini3493" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohini3493&show_icons=true&locale=en&layout=compact" alt="mohini3493" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mohini3493&show_icons=true&locale=en" alt="mohini3493" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohini3493&show_icons=true&locale=en&layout=compact" alt="mohini3493" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohini3493&" alt="mohini3493" /></p>
+
 
 ## 🏆 GitHub Trophies
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohini3493" alt="mohini3493" /></a></p>
