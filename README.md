@@ -68,7 +68,6 @@ Empowered with the skills to navigate the complex world of e-commerce using plat
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohini3493&" alt="mohini3493" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohini3493&show_icons=true&locale=en&layout=compact" alt="mohini3493" /></p><br>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=mohini3493&show_icons=true&locale=en" alt="mohini3493" /></p>
 
 
@@ -81,5 +80,3 @@ Empowered with the skills to navigate the complex world of e-commerce using plat
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohini3493&limit=5&theme=default&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mohini3493&icon=1&color=3)](https://visitcount.itsvg.in)
