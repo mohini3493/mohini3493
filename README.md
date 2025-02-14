@@ -7,45 +7,7 @@
 
 👩🏻‍💻 Senior Developer | Frontend Developer | Website Expert | 8 Years of Crafting Digital Excellence 🚀
 
-Greetings! 👋 I'm Mohini, a seasoned Frontend Developer and Website Expert with over 8 years of experience in the ever-evolving world of web development. I specialize in transforming creative ideas into visually stunning and highly functional websites and web applications. Here's a glimpse into my skill set and professional journey:
-
-💻 Technical Expertise:
-
-📌 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: HTML, CSS, JavaScript<br>
-📌 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀: ReactJS, Next.js<br>
-📌 𝗖𝗠𝗦: WordPress, Wix<br>
-📌 𝗘-𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗲: Shopify, WooCommerce<br>
-📌 𝗗𝗲𝘀𝗶𝗴𝗻 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻: Bootstrap, Tailwind
-
-🎨 Design Mastery:
-
-Proficient in using design tools such as 𝗙𝗶𝗴𝗺𝗮, 𝗫𝗗, and 𝗣𝗵𝗼𝘁𝗼𝘀𝗵𝗼𝗽 to bring ideas to life, ensuring a seamless blend of aesthetics and functionality.
-
-🛠️ Toolbox:
-
-🔄 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹: Git, GitHub, GitLab, Bitbucket
-✅ 𝗧𝗮𝘀𝗸 𝗧𝗿𝗮𝗰𝗸𝗶𝗻𝗴: Jira, Basecamp, Trello
-💬 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 𝗧𝗼𝗼𝗹𝘀 : Microsoft Teams, Zoom, Google Meet, Slack, Skype, Whatsapp Business
-🖥️ 𝗗𝗲𝘀𝗸𝘁𝗼𝗽 𝗔𝗽𝗽𝘀: Electron
-📌 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀: Jira, Trello, Slack, Basecamp
-💻 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗻𝗴 𝗦𝘆𝘀𝘁𝗲𝗺𝘀: Windows 10, macOS
-🛠 𝗜𝗧 𝗧𝗼𝗼𝗹𝘀: Microsoft Office Suite, Microsoft Teams
-☁️ 𝗖𝗹𝗼𝘂𝗱 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺: AWS
-🔗 𝗢𝘁𝗵𝗲𝗿 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀: RESTful APIs, Responsive Web Design
-🚀 𝗢𝘁𝗵𝗲𝗿: Agile Methodologies
-
-🌐 Website & Landing Page Builders:
-
-𝗪𝗲𝗯𝗳𝗹𝗼𝘄, 𝗪𝗶𝘅, 𝗙𝗿𝗮𝗺𝗲𝗿
-Simvoly, GoCommercially, Kajabi, Twenty Over Ten, Keap
-
-🚀 WordPress Page Builders:
-
-𝗪𝗣-𝗯𝗮𝗸𝗲𝗿𝘆, 𝗘𝗹𝗲𝗺𝗲𝗻𝘁𝗼𝗿 𝗣𝗿𝗼, 𝗔𝘃𝗮𝗱𝗮, 𝗗𝗶𝗩𝗶, 𝗩𝗶𝘀𝘂𝗮𝗹 𝗖𝗼𝗺𝗽𝗼𝘀𝗲𝗿, 𝗚𝘂𝘁𝗲𝗻𝗯𝗲𝗿𝗴 (𝗧𝗵𝗲 𝗕𝗹𝗼𝗰𝗸 𝗘𝗱𝗶𝘁𝗼𝗿)
-
-🛒 E-commerce Wizardry:
-
-Empowered with the skills to navigate the complex world of e-commerce using platforms like 𝗦𝗵𝗼𝗽𝗶𝗳𝘆 and 𝗪𝗼𝗼𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲.
+Greetings! 👋 I'm Mohini, a seasoned Frontend Developer and Website Expert with over 8 years of experience in the ever-evolving world of web development. I specialize in transforming creative ideas into visually stunning and highly functional websites and web applications.
 
 🏡 Remote Work Champion:
 
