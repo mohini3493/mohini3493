@@ -45,13 +45,6 @@ Greetings! 👋 I'm Mohini, a seasoned Frontend Developer and Website Expert wit
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohini3493&show_icons=true&locale=en&layout=compact" alt="mohini3493" /></p><br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mohini3493&show_icons=true&locale=en" alt="mohini3493" /></p>
 
-
-## 🏆 GitHub Trophies
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohini3493" alt="mohini3493" /></a></p>
-
-### ✍️ Random Dev Quote
-" Knowledge is Power - Francis Bacon"
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohini3493&limit=5&theme=default&combine_all_yearly_contributions=true)
 
