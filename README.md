@@ -39,12 +39,6 @@ Greetings! 👋 I'm Mohini, a seasoned Frontend Developer and Website Expert wit
 </div>
 
 
-# 📊 GitHub Stats:
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mohini3493&" alt="mohini3493" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohini3493&show_icons=true&locale=en&layout=compact" alt="mohini3493" /></p><br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mohini3493&show_icons=true&locale=en" alt="mohini3493" /></p>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mohini3493&limit=5&theme=default&combine_all_yearly_contributions=true)
 
