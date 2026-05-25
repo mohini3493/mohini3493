@@ -1,9 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohiniba%20Jadeja&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Frontend%20Architect%20%7C%20React%20%26%20Next.js%20%7C%20SaaS%20%26%20Ecommerce%20Expert&descAlignY=62&descSize=18"/>
-
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/>
-  Hey, I'm Mohini! Welcome to my profile 🌟
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohiniba%20Jadeja&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20profile%20%F0%9F%8C%9F&descAlignY=62&descSize=20"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=08872B&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Frontend+Architect;%E2%9A%9B%EF%B8%8F+React+%26+Next.js+Specialist;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Senior+UI+Engineer;%E2%9C%A8+WordPress+%7C+Shopify+%7C+Webflow+%7C+Framer+Expert" alt="Typing SVG"/>
@@ -12,8 +7,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohini3493&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/mohini3493?tab=followers">
-    <img src="https://img.shields.io/github/followers/mohini3493?label=Followers&style=for-the-badge&color=6C63FF&logoColor=white" alt="Followers"/>
+  <a href="https://github.com/mohini3493">
+    <img src="https://img.shields.io/badge/Total%20Commits-1K%2B-6C63FF?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/mohini3493">
@@ -23,8 +18,6 @@
 
 
 <img src="terminal.svg" alt="About Me Terminal" width="100%"/>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -100,13 +93,16 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
----
 
 ## 🚀 Featured Projects
 
-<img src="projects-table.svg" alt="Featured Projects" width="100%"/>
+| # | Project | Description | Tech Stack | Links |
+|:-:|---------|-------------|------------|:-----:|
+| 1 | **💡 QuotePilotBase** | SaaS app | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white) | [![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=vercel&logoColor=white)](https://infinityglazing.com/) [![View Repo](https://img.shields.io/badge/View_Repo-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/mohini3493/quotepilotbase) |
+| 2 | **📍 Map Pin Board** | Interactive location pin management app | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) | [![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=flat-square&logo=vercel&logoColor=white)](https://map-pin-dashboard.netlify.app/) [![View Repo](https://img.shields.io/badge/View_Repo-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/mohini3493/map-pin-board) |
+| 3 | **🛒 Direct Pallet** | Custom Shopify theme for modern e-commerce | ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white) ![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logoColor=white) | [![View Repo](https://img.shields.io/badge/View_Repo-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/mohini3493/direct-pallet) |
+| 4 | **🔌 Custom Post Plugin** | WordPress plugin for custom post & user management | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [![View Repo](https://img.shields.io/badge/View_Repo-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/mohini3493/Custom-User-Post-Plugin) |
 
----
 
 ## 📊 GitHub Stats
 
@@ -120,17 +116,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohini3493&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 🎓 Certifications
 
 <img src="profile-code.svg" alt="Mohiniba Jadeja Profile Code" width="100%"/>
 
----
-
 ## 🌐 Let's Connect!
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mohini3493" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

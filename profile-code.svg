@@ -7,11 +7,11 @@
   </defs>
 
   <!-- Window background -->
-  <rect width="720" height="200" rx="12" fill="#1E1E1E"/>
+  <rect width="720" height="200" rx="12" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="1"/>
 
   <!-- Title bar -->
-  <rect width="720" height="36" rx="12" fill="#2D2D2D"/>
-  <rect y="24" width="720" height="12" fill="#2D2D2D"/>
+  <rect width="720" height="36" rx="12" fill="#F0F0F0"/>
+  <rect y="24" width="720" height="12" fill="#F0F0F0"/>
 
   <!-- Traffic light dots -->
   <circle cx="22" cy="18" r="6" fill="#FF5F57"/>
@@ -19,39 +19,39 @@
   <circle cx="66" cy="18" r="6" fill="#28CA41"/>
 
   <!-- File tab -->
-  <rect x="90" y="8" width="160" height="24" rx="4" fill="#1E1E1E"/>
-  <text x="170" y="24" class="ttl" fill="#9D9D9D" text-anchor="middle">mohinibaJadeja.js</text>
+  <rect x="90" y="8" width="160" height="24" rx="4" fill="#FFFFFF" stroke="#CCCCCC" stroke-width="1"/>
+  <text x="170" y="24" class="ttl" fill="#333333" text-anchor="middle">mohinibaJadeja.js</text>
 
   <!-- Separator -->
-  <line x1="0" y1="36" x2="720" y2="36" stroke="#404040" stroke-width="1"/>
+  <line x1="0" y1="36" x2="720" y2="36" stroke="#CCCCCC" stroke-width="1"/>
 
   <!-- Line number column -->
-  <rect x="0" y="36" width="42" height="164" fill="#1E1E1E"/>
-  <line x1="42" y1="36" x2="42" y2="200" stroke="#404040" stroke-width="1"/>
+  <rect x="0" y="36" width="42" height="164" fill="#F8F8F8"/>
+  <line x1="42" y1="36" x2="42" y2="200" stroke="#CCCCCC" stroke-width="1"/>
 
   <!-- Line numbers -->
-  <text x="34" y="62"  class="mono" fill="#6E7681" text-anchor="end">1</text>
-  <text x="34" y="84"  class="mono" fill="#6E7681" text-anchor="end">2</text>
-  <text x="34" y="106" class="mono" fill="#6E7681" text-anchor="end">3</text>
-  <text x="34" y="128" class="mono" fill="#6E7681" text-anchor="end">4</text>
-  <text x="34" y="150" class="mono" fill="#6E7681" text-anchor="end">5</text>
-  <text x="34" y="172" class="mono" fill="#6E7681" text-anchor="end">6</text>
+  <text x="34" y="62"  class="mono" fill="#AAAAAA" text-anchor="end">1</text>
+  <text x="34" y="84"  class="mono" fill="#AAAAAA" text-anchor="end">2</text>
+  <text x="34" y="106" class="mono" fill="#AAAAAA" text-anchor="end">3</text>
+  <text x="34" y="128" class="mono" fill="#AAAAAA" text-anchor="end">4</text>
+  <text x="34" y="150" class="mono" fill="#AAAAAA" text-anchor="end">5</text>
+  <text x="34" y="172" class="mono" fill="#AAAAAA" text-anchor="end">6</text>
 
   <!-- Line 1: const mohinibaJadeja = { -->
-  <text x="54" y="62" class="mono"><tspan fill="#569CD6">const </tspan><tspan fill="#DCDCAA">mohinibaJadeja</tspan><tspan fill="#D4D4D4"> = {</tspan></text>
+  <text x="54" y="62" class="mono"><tspan fill="#0000FF">const </tspan><tspan fill="#795E26">mohinibaJadeja</tspan><tspan fill="#000000"> = {</tspan></text>
 
   <!-- Line 2: certifications : [ -->
-  <text x="54" y="84" class="mono"><tspan fill="#D4D4D4">  </tspan><tspan fill="#9CDCFE">certifications</tspan><tspan fill="#D4D4D4"> : [</tspan></text>
+  <text x="54" y="84" class="mono"><tspan fill="#000000">  </tspan><tspan fill="#001080">certifications</tspan><tspan fill="#000000"> : [</tspan></text>
 
   <!-- Line 3: cert 1 -->
-  <text x="54" y="106" class="mono"><tspan fill="#D4D4D4">    </tspan><tspan fill="#CE9178">"&#x1F916; ChatGPT Prompt Engineering — DeepLearning.AI (2026)"</tspan><tspan fill="#D4D4D4">,</tspan></text>
+  <text x="54" y="106" class="mono"><tspan fill="#000000">    </tspan><tspan fill="#A31515">"&#x1F916; ChatGPT Prompt Engineering — DeepLearning.AI (2026)"</tspan><tspan fill="#000000">,</tspan></text>
 
   <!-- Line 4: cert 2 -->
-  <text x="54" y="128" class="mono"><tspan fill="#D4D4D4">    </tspan><tspan fill="#CE9178">"&#x269B;&#xFE0F;  Learning React.js — LinkedIn Learning (2021)"</tspan><tspan fill="#D4D4D4">,</tspan></text>
+  <text x="54" y="128" class="mono"><tspan fill="#000000">    </tspan><tspan fill="#A31515">"&#x269B;&#xFE0F;  Learning React.js — LinkedIn Learning (2021)"</tspan><tspan fill="#000000">,</tspan></text>
 
   <!-- Line 5: ], -->
-  <text x="54" y="150" class="mono" fill="#D4D4D4">  ],</text>
+  <text x="54" y="150" class="mono" fill="#000000">  ],</text>
 
   <!-- Line 6: }; -->
-  <text x="54" y="172" class="mono" fill="#D4D4D4">};</text>
+  <text x="54" y="172" class="mono" fill="#000000">};</text>
 </svg>
