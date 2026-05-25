@@ -1,0 +1,51 @@
+<svg width="720" height="420" viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; font-size: 13px; }
+      .ttl  { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 12px; }
+    </style>
+  </defs>
+
+  <!-- Window background -->
+  <rect width="720" height="420" rx="12" fill="#FAFAFA" stroke="#DCDCDC" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect width="720" height="36" rx="12" fill="#EBEBEB"/>
+  <rect y="24" width="720" height="12" fill="#EBEBEB"/>
+
+  <!-- Traffic light dots -->
+  <circle cx="22" cy="18" r="6" fill="#FF5F57"/>
+  <circle cx="44" cy="18" r="6" fill="#FFBD2E"/>
+  <circle cx="66" cy="18" r="6" fill="#28CA41"/>
+
+  <!-- Title -->
+  <text x="360" y="23" class="ttl" fill="#777" text-anchor="middle">mohini@github — ~/about-me</text>
+
+  <!-- Separator -->
+  <line x1="0" y1="36" x2="720" y2="36" stroke="#DCDCDC" stroke-width="1"/>
+
+  <!-- Top prompt -->
+  <text x="16" y="62" class="mono" fill="#08872B">mohini@github:~/about-me$</text>
+
+  <!-- Content -->
+  <text x="16" y="90"  class="mono" fill="#1A1A1A">&#x1F3E2;  Currently working as Frontend-Focused Full Stack Developer</text>
+  <text x="16" y="112" class="mono" fill="#1A1A1A">    at Digiligo, Bangalore</text>
+  <text x="16" y="134" class="mono" fill="#1A1A1A">&#x1F30D;  Based in Bengaluru, Karnataka, India &#x1F1EE;&#x1F1F3;</text>
+  <text x="16" y="156" class="mono" fill="#1A1A1A">&#x1F469;&#x200D;&#x1F4BB;  8+ years of experience crafting scalable, beautiful web experiences</text>
+  <text x="16" y="178" class="mono" fill="#1A1A1A">&#x26A1;  Specializing in React.js, Next.js, TypeScript</text>
+  <text x="16" y="200" class="mono" fill="#1A1A1A">    and SaaS web apps &amp; ecommerce</text>
+  <text x="16" y="222" class="mono" fill="#1A1A1A">&#x1F310;  Expert in WordPress &#xB7; Shopify &#xB7; Webflow &amp; Wix solutions</text>
+  <text x="16" y="244" class="mono" fill="#1A1A1A">&#x1F916;  Exploring AI &amp; Prompt Engineering &#x2014; certified by DeepLearning.AI</text>
+  <text x="16" y="266" class="mono" fill="#1A1A1A">&#x1F3E1;  Remote Work Champion &#x2014; delivering excellence from anywhere</text>
+  <text x="16" y="288" class="mono" fill="#1A1A1A">&#x1F393;  Graduated from Gujarat Technological University (CGPA: 8.44/10)</text>
+  <text x="16" y="310" class="mono" fill="#1A1A1A">&#x1F4AC;  Speak: English &#xB7; Hindi &#xB7; Gujarati</text>
+  <text x="16" y="332" class="mono" fill="#1A1A1A">&#x1F4E7;  mohini.inboxme@gmail.com</text>
+
+  <!-- Bottom prompt -->
+  <text x="16" y="372" class="mono" fill="#08872B">mohini@github:~/about-me$</text>
+
+  <!-- Blinking cursor — 26 chars * ~7.8px + x:16 ≈ x:219 -->
+  <rect x="219" y="358" width="8" height="15" fill="#08872B" rx="1">
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>

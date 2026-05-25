@@ -1,0 +1,104 @@
+<svg width="720" height="254" viewBox="0 0 720 254" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .cell  { font-family: Calibri, 'Trebuchet MS', Arial, sans-serif; font-size: 12.5px; fill: #1A1A1A; }
+      .bold  { font-family: Calibri, 'Trebuchet MS', Arial, sans-serif; font-size: 12.5px; fill: #1A1A1A; font-weight: bold; }
+      .head  { font-family: Calibri, 'Trebuchet MS', Arial, sans-serif; font-size: 12.5px; fill: #FFFFFF; font-weight: bold; }
+      .meta  { font-family: Calibri, 'Trebuchet MS', Arial, sans-serif; font-size: 11px;   fill: #595959; }
+      .link  { font-family: Calibri, 'Trebuchet MS', Arial, sans-serif; font-size: 12px;   fill: #0563C1; text-decoration: underline; cursor: pointer; }
+      .rnum  { font-family: Calibri, 'Trebuchet MS', Arial, sans-serif; font-size: 11px;   fill: #595959; }
+    </style>
+  </defs>
+
+  <!-- ── Column letter row ── -->
+  <rect x="0"   y="0" width="720" height="22" fill="#E2E2E2"/>
+
+  <!-- ── Header row (Excel green) ── -->
+  <rect x="0"   y="22" width="720" height="32" fill="#217346"/>
+
+  <!-- ── Data row backgrounds (alternating) ── -->
+  <rect x="0"   y="54"  width="720" height="50" fill="#FFFFFF"/>
+  <rect x="0"   y="104" width="720" height="50" fill="#F0FAF4"/>
+  <rect x="0"   y="154" width="720" height="50" fill="#FFFFFF"/>
+  <rect x="0"   y="204" width="720" height="50" fill="#F0FAF4"/>
+
+  <!-- ── Row # column tint ── -->
+  <rect x="0" y="22" width="32" height="232" fill="rgba(0,0,0,0.07)"/>
+
+  <!-- ── Column letters ── -->
+  <text x="16"  y="15" class="meta" text-anchor="middle">▣</text>
+  <text x="112" y="15" class="meta" text-anchor="middle">A</text>
+  <text x="307" y="15" class="meta" text-anchor="middle">B</text>
+  <text x="497" y="15" class="meta" text-anchor="middle">C</text>
+  <text x="646" y="15" class="meta" text-anchor="middle">D</text>
+
+  <!-- ── Header labels ── -->
+  <text x="16"  y="43" class="head" text-anchor="middle">#</text>
+  <text x="40"  y="43" class="head">🗂️ Project</text>
+  <text x="200" y="43" class="head">📝 Description</text>
+  <text x="430" y="43" class="head">🛠️ Tech Stack</text>
+  <text x="582" y="43" class="head">🔗 Links</text>
+
+  <!-- ══════════ ROW 1 ══════════ -->
+  <text x="16"  y="84"  class="rnum" text-anchor="middle">1</text>
+  <text x="40"  y="75"  class="bold">📍 Map Pin Board</text>
+  <text x="200" y="75"  class="cell">Interactive React/TypeScript</text>
+  <text x="200" y="91"  class="cell">location pin management app</text>
+  <text x="430" y="75"  class="cell">React · TypeScript</text>
+  <text x="430" y="91"  class="cell">Netlify</text>
+  <a href="https://map-pin-dashboard.netlify.app/" target="_blank">
+    <text x="646" y="75" class="link" text-anchor="middle">🌐 Demo</text>
+  </a>
+  <a href="https://github.com/mohini3493/map-pin-board" target="_blank">
+    <text x="646" y="91" class="link" text-anchor="middle">💻 Code</text>
+  </a>
+
+  <!-- ══════════ ROW 2 ══════════ -->
+  <text x="16"  y="134" class="rnum" text-anchor="middle">2</text>
+  <text x="40"  y="125" class="bold">🛒 Direct Pallet</text>
+  <text x="200" y="125" class="cell">Custom Shopify theme for</text>
+  <text x="200" y="141" class="cell">modern e-commerce</text>
+  <text x="430" y="134" class="cell">Shopify · Liquid</text>
+  <a href="https://github.com/mohini3493/direct-pallet" target="_blank">
+    <text x="646" y="134" class="link" text-anchor="middle">💻 Code</text>
+  </a>
+
+  <!-- ══════════ ROW 3 ══════════ -->
+  <text x="16"  y="184" class="rnum" text-anchor="middle">3</text>
+  <text x="40"  y="175" class="bold">🔌 Custom Post Plugin</text>
+  <text x="200" y="175" class="cell">WordPress plugin for custom</text>
+  <text x="200" y="191" class="cell">post &amp; user management</text>
+  <text x="430" y="184" class="cell">WordPress · PHP</text>
+  <a href="https://github.com/mohini3493/Custom-User-Post-Plugin" target="_blank">
+    <text x="646" y="184" class="link" text-anchor="middle">💻 Code</text>
+  </a>
+
+  <!-- ══════════ ROW 4 ══════════ -->
+  <text x="16"  y="234" class="rnum" text-anchor="middle">4</text>
+  <text x="40"  y="225" class="bold">💡 QuotePilotBase</text>
+  <text x="200" y="225" class="cell">TypeScript-powered</text>
+  <text x="200" y="241" class="cell">modern web application</text>
+  <text x="430" y="234" class="cell">TypeScript</text>
+  <a href="https://infinityglazing.com/" target="_blank">
+    <text x="646" y="225" class="link" text-anchor="middle">🌐 Demo</text>
+  </a>
+  <a href="https://github.com/mohini3493/quotepilotbase" target="_blank">
+    <text x="646" y="241" class="link" text-anchor="middle">💻 Code</text>
+  </a>
+
+  <!-- ── Vertical grid lines ── -->
+  <line x1="32"  y1="0" x2="32"  y2="254" stroke="#B0B0B0" stroke-width="1"/>
+  <line x1="192" y1="0" x2="192" y2="254" stroke="#B0B0B0" stroke-width="1"/>
+  <line x1="422" y1="0" x2="422" y2="254" stroke="#B0B0B0" stroke-width="1"/>
+  <line x1="572" y1="0" x2="572" y2="254" stroke="#B0B0B0" stroke-width="1"/>
+
+  <!-- ── Horizontal grid lines ── -->
+  <line x1="0" y1="22"  x2="720" y2="22"  stroke="#B0B0B0" stroke-width="1"/>
+  <line x1="0" y1="54"  x2="720" y2="54"  stroke="#B0B0B0" stroke-width="1.5"/>
+  <line x1="0" y1="104" x2="720" y2="104" stroke="#D0D0D0" stroke-width="1"/>
+  <line x1="0" y1="154" x2="720" y2="154" stroke="#D0D0D0" stroke-width="1"/>
+  <line x1="0" y1="204" x2="720" y2="204" stroke="#D0D0D0" stroke-width="1"/>
+
+  <!-- ── Outer border ── -->
+  <rect x="0" y="0" width="720" height="254" rx="4" fill="none" stroke="#9E9E9E" stroke-width="1.5"/>
+</svg>
