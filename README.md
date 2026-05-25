@@ -7,6 +7,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohini3493&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
+  <a href="https://github.com/mohini3493?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohini3493?label=Followers&style=for-the-badge&color=6C63FF&logoColor=white" alt="Followers"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/mohini3493">
     <img src="https://img.shields.io/badge/Total%20Commits-1K%2B-6C63FF?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
   </a>
